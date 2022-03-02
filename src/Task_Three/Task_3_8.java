@@ -43,7 +43,7 @@ public class Task_3_8 {
         String nameOne = sc3.nextLine();
         String nameTwo = sc3.nextLine();
         String nameThree = sc3.nextLine();
-        System.out.println(nameOne + " " + nameTwo + " " + nameThree + " = Чистая любовь, да-да!");
+        System.out.println(nameOne + " + " + nameTwo + " + " + nameThree + " = Чистая любовь, да-да!");
     }
 
 
